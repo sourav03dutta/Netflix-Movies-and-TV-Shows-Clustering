@@ -1,6 +1,8 @@
 
 # NETFLIX Movies and TV Shows Clustering
 
+THIS PROJECT IS VERIFIED BY [ALMABETTER](https://www.almabetter.com/)
+
 ![Logo](https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png)
 
 This project is aimed at predicting and gather insights of Netflix Movies and TV Shows.
@@ -59,5 +61,5 @@ I choose K Means Clustering from the above models as my final prediction model b
 
 ## Author
 
-- [@sourav03dutta](https://github.com/sourav03dutta)
+- [sourav03dutta](https://github.com/sourav03dutta)
 
